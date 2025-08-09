@@ -1,0 +1,2 @@
+# weather-dashboard
+リアルタイム天気予報ダッシュボード。OpenWeatherMap APIを使用した5日間予報と詳細な気象情報表示
