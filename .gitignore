@@ -1,0 +1,16 @@
+# APIキーを含むファイル
+index-local.html
+*.local.html
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# Backup files
+*.backup
+*.bak
